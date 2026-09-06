@@ -1,0 +1,7 @@
+The mvbench evaluation questions originally were 4000,
+however the 193 ntu rgb+d dataset videos (mentioned in 
+MVBench_videos_ntu.txt file given), at the time, 
+were not available because of the copyrights issue.
+
+So instead of 4000 questions, the VLM's evaluation of
+all the metrics has been done on 3800 questions only.

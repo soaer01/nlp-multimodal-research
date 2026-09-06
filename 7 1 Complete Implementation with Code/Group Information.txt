@@ -1,0 +1,7 @@
+Group 32:
+	The Paradigm Shift: From Model Scaling to Data-Centric Pipelines in Video Contextualization
+
+Members:
+	Mian Afzal Saeed  (23L-2505)
+	Faryal Zahra  (23L-2551)
+	Hira Khalid  (23L-2594)

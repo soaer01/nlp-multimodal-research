@@ -1,0 +1,16 @@
+conduct a research-driven NLP project with
+experimental validation and detailed analysis.
+The outcome must resemble a short conference
+paper (IEEE format).
+
+work must include:
+• A clear research question
+• Baselines
+• Comparative evaluation
+• Error analysis
+• Critical discussion of results
+
+Project code with complete implementation
+
+Paper in Latex and Pdf
+

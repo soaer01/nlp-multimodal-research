@@ -1,0 +1,1 @@
+3b 4 bit with full resolution results not computed due to its non-criticality in presence of other experiments

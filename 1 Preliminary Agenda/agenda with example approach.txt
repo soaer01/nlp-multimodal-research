@@ -1,0 +1,52 @@
+Domian: general
+
+model approaches:
+1. 	Data centric research (train and results)
+		approach 1:
+			slm: single techniques
+			llm: na
+		approach 2:
+			slm: multiple techniques
+			llm: na
+		approach 3:
+			slm: single techniques
+			llm: single techniques
+		approach 4:
+			slm: multiple techniques
+			llm: multiple techniques
+2.	model centric research
+		limitations
+		perspectives
+		constraints
+
+3. architectural bias mitigation availibility
+
+
+required paper work:
+	constraints
+	limitations
+	techniques
+	accuracy improvement
+
+approach
+1. directly results from both models without training (slm (3B): 50, llm (50B):70)
+
+2b. slm (data centric approach) and llm optimized (model centric approach) -> (slm (3B+0.5B):60, llm (60B):74)
+
+slm: 50     -----    llm: 70
+slm: 60     -----    llm: 74
+
+change:
+slm: 10     -----   llm: 4
+	
+
+relative change:
+slm: 20%    -----    llm: 6%
+
+2a. slm optimized (data centric approach) -> (slm:60, llm:70) 
+
+
+
+
+
+

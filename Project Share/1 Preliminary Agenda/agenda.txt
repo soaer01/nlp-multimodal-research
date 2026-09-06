@@ -1,0 +1,29 @@
+Domian: general
+
+model approaches:
+1. 	Data centric research (train and results)
+		approach 1:
+			slm: single techniques
+			llm: na
+		approach 2:
+			slm: multiple techniques
+			llm: na
+		approach 3:
+			slm: single techniques
+			llm: single techniques
+		approach 4:
+			slm: multiple techniques
+			llm: multiple techniques
+2.	model centric research
+		limitations
+		perspectives
+		constraints
+
+3. architectural bias mitigation availibility
+
+
+required paper work:
+	constraints
+	limitations
+	techniques
+	accuracy improvement
